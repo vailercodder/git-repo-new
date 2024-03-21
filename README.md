@@ -1,32 +1,31 @@
 
-# git-repo-new
+GITHUB STORY-PROJECT
+this is a project that is ment
+to tell a story, it is important that you will read about our process and how we implemented features
 
- shaharbranch
-## *About* *us*:
-we are 3 collaborators that have decided 
-to write a story together 
+getting started
+we got started by logging into our github accounts, letting me open the repository, and making sure everybody cloned it!
 
-## The story:
-our story ~~ends~~ ==starts==
-with us trying to figure out how to operate 
-the bash terminal in vcs
+first steps
+clone repository
+create story and author folders
+let each team member add is changes and upload it to the main
+most used commands
+git pull
+git push
+git status
+git merge
+git .log
+code .
+git commit
+git fetch
+contributing
+this project is listed public, meaning each of you can download the files and add their part of the story!
 
+Contribution Guide
 
-### The challenges we faced along the way:smile:: 
+directory image
+folder
 
-we faced alot of challenges while starting this project, we didnt had
-alot of practical history with coding in vcs or using github, but none
-the less we managed to publish or project working together 
-and we found out, that the problems we faced along and the mistakes me made
-were the  best part of the work!
-
-#### Our work process
-
-| Task                             | Status      |
-|----------------------------------|-------------|
-| Make Branch                      | Finished    |
-| Completed Story + Names          | Finished    |
-| Merged and Created a PR Request  | Finished    |
-| **Overall Project Status**       | **All Finished** |
-
-
+how to reach us😄:
+email:['shaharbk1234@gmail.com']
